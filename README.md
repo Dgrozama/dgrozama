@@ -1,16 +1,39 @@
-## Hi there 👋
+# 📜 Sobre Mi
 
-<!--
-**Dgrozama/dgrozama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tinc sida i m'agraden les autistes.
 
-Here are some ideas to get you started:
+## 👤 Informació Personal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Nom:** [Danbanlui]
+- **Correu Electrònic:** [dgrozama@iesebre.com]
+- **Ubicació:** [Ulldecona, España]
+
+## 🎓 Educació
+
+- **Títol Acadèmic:** [SMX i DAM] en [IES del Ebre]
+
+- **Data de Graduació:** [2021-2025]
+
+## 💼 Experiència Professional
+
+Si
+
+## 💻 Habilitats
+
+- **Llenguatges de Programació:** [Java, HTML, CSS, XXX, JS]
+
+## 📂 Projectes Destacats
+
+### 🌟 [POJO]
+
+- **Descripció:** [Pojoooooooooooooooo]
+- **Tecnologies Utilitzades:** [Java i mysql]
+
+## 🎯 Interessos
+
+- [Habibis]
+- [Pau]
+
+## 📫 Contacte
+
+- **GitHub:** [Dgrozama]
